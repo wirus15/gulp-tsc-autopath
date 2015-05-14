@@ -1,7 +1,7 @@
 {
     "name": "gulp-tsc-autopath",
     "description": "Automatically creates type references for TypeScript project",
-    "version": "0.1",
+    "version": "0.1.0",
     "homepage": "http://github.com/wirus15/gulp-tsc-autopath",
     "repository": "http://github.com/wirus15/gulp-tsc-autopath.git",
     "author": "Maciej Krawczyk <wirus15@gmail.com>",
